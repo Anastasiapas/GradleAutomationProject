@@ -7,10 +7,4 @@
             <class name="MyTests.SearchTest" />
         </classes>
     </test>
-    <test name="Test on Firefox">
-        <parameter name="browser" value="firefox" />
-        <classes>
-            <class name="MyTests.SearchTest" />
-        </classes>
-    </test>
 </suite>
